@@ -19,6 +19,7 @@ body{
     display:inline-block;
 
   }  
+  
  nav>ul>li>a {  
   padding:18px;
   margin-right: 0;
@@ -33,7 +34,7 @@ body{
   background:gold;
 
   }
-  
+
   h1{
     color:black;
     text-align: center;
