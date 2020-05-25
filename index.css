@@ -1,0 +1,43 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+  }
+  .container{
+     
+      position:absolute;
+      top:0;
+      bottom:0;
+      right:0;
+      left:0;
+      background-image:url("images/pizza4.jpg");
+      opacity:1;
+      background-repeat:no-repeat;
+      background-size:cover;
+
+  }
+
+  ul>li{ 
+    display:inline-block;
+
+  }  
+
+  nav>ul>li>a {  
+  padding:18px;
+  margin-right: 0;
+  text-transform:uppercase;
+  text-decoration:underline;
+  display: inline-block;
+  color:white;
+  
+  }
+  nav>ul>li>a:hover {
+ color:black;
+  background:gold;
+
+  }
+  h1{
+    color:black;
+    text-align: center;
+    font-size: 70px;
+
+  }
+  
