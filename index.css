@@ -2,7 +2,6 @@ body{
     font-family: 'Work Sans', sans-serif;
   }
   .container{
-     
       position:absolute;
       top:0;
       bottom:0;
@@ -19,7 +18,7 @@ body{
     display:inline-block;
 
   }  
-  
+
  nav>ul>li>a {  
   padding:18px;
   margin-right: 0;
