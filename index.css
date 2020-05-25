@@ -18,8 +18,7 @@ body{
     display:inline-block;
 
   }  
-
- nav>ul>li>a {  
+nav>ul>li>a {  
   padding:18px;
   margin-right: 0;
   text-transform:uppercase;
