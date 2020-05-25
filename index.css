@@ -12,8 +12,8 @@
 
   ul>li{ 
     display:inline-block;
-
-  }  
+ }  
+ 
 nav>ul>li>a {  
   padding:18px;
   margin-right: 0;
